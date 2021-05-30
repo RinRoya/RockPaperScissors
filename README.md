@@ -1,4 +1,4 @@
-# RockPaperScissors
+# Rock, Paper, and Scissors
 ## Penulis: Ridho Nur Rohman Wijaya
 Pada kesempatan kali ini akan dijelaskan mengenai klasifikasi gambar untuk permainan batu, gunting, kertas menggunakan Convolutional Neural Networks (CNN). Implementasi menggunakan bahasa pemrograman Python yang ditulis dengan Jupyter Notebook.
 
